@@ -1,4 +1,4 @@
-package mine.test.question;
+package mine.test.question.greedy;
 
 import org.junit.Test;
 
