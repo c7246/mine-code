@@ -15,7 +15,7 @@ import java.util.List;
  * <p>
  * 你可以任何顺序返回解决方案，ID 的顺序也不受限制。此外，题目给出的数据保证至少存在一种解决方案。
  */
-public class _Undone用户分组 {
+public class 用户分组 {
 
     @Test
     public void run() {
